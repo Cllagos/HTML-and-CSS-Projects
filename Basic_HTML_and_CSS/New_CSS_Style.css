@@ -1,0 +1,21 @@
+ol {
+	list-style-type: upper-roman;
+	}
+ul {
+	list-style-type: square;
+	}
+	
+p {
+	color: snow;
+	background: black;
+	font-weight: bold;
+	text-align: center;	
+}
+h1:after{
+	content: ' \00AE';
+}
+
+
+.red-text-shadow {
+  text-shadow: red 0 -2px;
+}
